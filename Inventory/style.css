@@ -1,0 +1,7 @@
+/* Put your css in here */
+.auth_btns{
+    position: relative;
+    float: right;
+    top: -34px;
+    z-index:999;
+}  
